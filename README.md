@@ -27,11 +27,7 @@ Store the Docker image in Azure ACR
 6. Kubernetes
 To run the Docker image that's created for the containerized Uber app. Kubernetes, in this case, AKS, will be used to orchestrate the container.
 
-7. 
-
-CI/CD
-
-9. 
+7. CI/CD
 
 Use GitHub Action to create an AKS cluster
 
