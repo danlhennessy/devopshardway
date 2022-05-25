@@ -16,9 +16,9 @@ Python will be used for the Uber app (it is written in Python) and some automati
 
 4. Terraform
 
--Create an Azure ACR repository with Terraform
+Create an Azure ACR repository with Terraform
 
--Create an AKS cluster
+Create an AKS cluster
 
 5. Docker
 
