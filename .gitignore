@@ -7,3 +7,6 @@ backend/VNET/.terraform.lock.hcl
 backend/LogAnalytics/.terraform.lock.hcl
 backend/LogAnalytics/.terraform/terraform.tfstate
 backend/LogAnalytics/.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.99.0/windows_amd64/terraform-provider-azurerm_v2.99.0_x5.exe
+backend/AKS/.terraform.lock.hcl
+backend/AKS/.terraform/terraform.tfstate
+backend/AKS/.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.99.0/windows_amd64/terraform-provider-azurerm_v2.99.0_x5.exe
