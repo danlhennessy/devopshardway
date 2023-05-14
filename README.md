@@ -30,7 +30,7 @@ To run the Docker image that's created for the containerized Uber app. Kubernete
 
 - [x] CI/CD
 
-Use GitHub Action to create an AKS cluster
+Use GitHub Action to create an AKS cluster (Actions currently removed to avoid costs)
 
 - [x] Automated testing
 
